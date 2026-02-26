@@ -9,6 +9,9 @@ A second function of the remote shall be its toy function, making some funky sou
 My main reference for this project, as well as the idea of integrating IR functions (thus the actual remote functions), comes from [Danovation](https://youtu.be/Afh69M2GXSo?si=8pY9mNmheCkjXmlK) on Youtube
 
 <br>
+
+[sonic screwdriver concept sketch](https://github.com/CrvptiK/Arduino-SonicSrewdriver/blob/main/additional%20files/concept%20sketch.PNG)
+
 <br>
 
 ### Steps of Work
