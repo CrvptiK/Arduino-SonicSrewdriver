@@ -10,7 +10,7 @@ My main reference for this project, as well as the idea of integrating IR functi
 
 <br>
 
-[sonic screwdriver concept sketch](https://github.com/CrvptiK/Arduino-SonicSrewdriver/blob/main/additional%20files/concept%20sketch.PNG)
+![sonic screwdriver concept sketch](https://github.com/CrvptiK/Arduino-SonicSrewdriver/blob/main/additional%20files/concept%20sketch.PNG)
 
 <br>
 
