@@ -16,33 +16,33 @@ For Full Documentation, see [Documentation](https://github.com/CrvptiK/Arduino-S
 
 <br>
 
-**Concepting**
-Research
-Planning the project
-Concept sketches
+**Concepting** <br>
+Research <br>
+Planning the project <br>
+Concept sketches <br>
 
 <br>
 
-**First Steps**
-Acquiring hardware
-Understanding the Code
-Assembling and Testing Electronics
+**First Steps** <br>
+Acquiring hardware <br>
+Understanding the Code <br>
+Assembling and Testing Electronics <br>
 
 <br>
 
-**Making it happen**
-Mapping out Wiring
-Soldering 
-3D Designing the Casing
-Tweaking the Code
-First Testing
+**Making it happen** <br>
+Mapping out Wiring <br>
+Soldering <br>
+3D Designing the Casing <br>
+Tweaking the Code <br>
+First Testing <br>
 
 <br>
 
-**Final Steps**
-Final Customisation of the Code
-Further Testing
-Creating the Project Video
+**Final Steps** <br>
+Final Customisation of the Code <br>
+Further Testing <br>
+Creating the Project Video <br>
 
 <br>
 <br>
