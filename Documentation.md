@@ -14,6 +14,7 @@ Concepting, further research and acquiring components
 Oh, to be so naive xD
 
 ![later sketch](https://github.com/CrvptiK/Arduino-SonicSrewdriver/blob/main/additional%20files/sketch.JPEG)
+![add](https://github.com/CrvptiK/Arduino-SonicSrewdriver/blob/main/additional%20files/comps.JPEG)
 ![pin assign](https://github.com/CrvptiK/Arduino-SonicSrewdriver/blob/main/additional%20files/pins.JPEG)
 Simplyfied design, as well as Pin assignment
 
@@ -37,7 +38,7 @@ The mess of initial wires, ugliest tree ever
 ![everything attached](https://github.com/CrvptiK/Arduino-SonicSrewdriver/blob/main/additional%20files/full.JPEG)
 
 ![it is alive](https://github.com/CrvptiK/Arduino-SonicSrewdriver/blob/main/additional%20files/finalised.JPEG)
-At this point, everything looked clunky but working (subtle foreshadowing)
+At this point, everything looked clunky but seemned to be working fine (subtle foreshadowing)
 
 <br>
 
