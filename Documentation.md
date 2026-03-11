@@ -14,6 +14,7 @@ Concepting, further research and acquiring components
 Oh, to be so naive xD
 
 ![later sketch](https://github.com/CrvptiK/Arduino-SonicSrewdriver/blob/main/additional%20files/sketch.JPEG)
+![pin assign](https://github.com/CrvptiK/Arduino-SonicSrewdriver/blob/main/additional%20files/pins.JPEG)
 Simplyfied design, as well as Pin assignment
 
 ![components](https://github.com/CrvptiK/Arduino-SonicSrewdriver/blob/main/additional%20files/components.JPEG)
