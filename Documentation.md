@@ -56,7 +56,7 @@ Making seeeduino xiao work on arduino, more installations yay
 Running the code, testing the gyro, figuring out functions
 
 ![3d design](https://github.com/CrvptiK/Arduino-SonicSrewdriver/blob/main/additional%20files/3D%20design%20updated.png)
-overhaulting 3d design and revising its size
+overhauling 3d design and revising its size
 
 <br>
 
