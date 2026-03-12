@@ -79,8 +79,14 @@ Waiting for the 3D printer to finish the casing
 ![painting the casing progress](https://github.com/CrvptiK/Arduino-SonicSrewdriver/blob/main/additional%20files/painting%20progress.JPEG)
 Spray painting the casing :))
 
-![finished casing](https://github.com/CrvptiK/Arduino-SonicSrewdriver/blob/main/additional%20files/Casing.JPEG)
-Shoving all the guts into the casing xD
+![pieces](https://github.com/CrvptiK/Arduino-SonicSrewdriver/blob/main/additional%20files/Final%20pieces.png)
+A final look at the 3D designed pieces
+
+![finished casing](https://github.com/CrvptiK/Arduino-SonicSrewdriver/blob/main/additional%20files/unassembled.JPEG)
+Shoving all the guts into the casing  and running the code through it
+
+![final project](https://github.com/CrvptiK/Arduino-SonicSrewdriver/blob/main/additional%20files/assembled.JPEG)
+Everything is assembled! Yippie!
 
 
 
