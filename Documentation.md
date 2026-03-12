@@ -76,7 +76,11 @@ Still a wiry mess, but a less horrific one
 ![printer](https://github.com/CrvptiK/Arduino-SonicSrewdriver/blob/main/additional%20files/printjob.JPEG)
 Waiting for the 3D printer to finish the casing 
 
+![painting the casing progress](https://github.com/CrvptiK/Arduino-SonicSrewdriver/blob/main/additional%20files/painting%20progress.JPEG)
+Spray painting the casing :))
 
+![finished casing](https://github.com/CrvptiK/Arduino-SonicSrewdriver/blob/main/additional%20files/Casing.JPEG)
+Shoving all the guts into the casing xD
 
 
 
