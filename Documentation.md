@@ -89,14 +89,38 @@ Shoving all the guts into the casing  and running the code through it
 Everything is assembled! Yippie!
 
 <br>
-<br>
 
-Find the Video Demo [here](https://github.com/CrvptiK/Arduino-SonicSrewdriver/blob/main/Sonic%20Screwdriver%20demo.mp4))
+Find the Video Demo [here](https://github.com/CrvptiK/Arduino-SonicSrewdriver/blob/main/Sonic%20Screwdriver%20demo.mp4)
 
-<br>
 <br>
 
 Find the Code [here](https://github.com/CrvptiK/Arduino-SonicSrewdriver/blob/main/Code)
+
+<br>
+
+### Final Notes
+
+What worked?
+
+I am quite proud of my result. The casing, although very bulky, looks pretty good for my first 3d design in Fusion 360 (and the first one that was immediately supposed to be printed too!)
+
+I am positively surprised by the IR functions, although the system is far from optimised.
+
+The soldering mostly worked fine and the demo video was a lot of fun to make. 
+
+I have gained many insights regarding Arduino and have found I might want to work with it from time to time in my freetime.
+
+<br>
+
+What could have gone better?
+
+My planning first and foremost. I sealed off some parts of the design in a way that prevents me from accessing for example the seeeduino. Smart, I know -.- 
+
+Sadly, the red wire broke, and i can not resolder it, thanks to my botched setup.
+
+The gyroscope is relatively unreliable, due to glue not properly holding it fixed. An inner chassis would have solved this issue.
+
+The light sensor presses, similarly are hard to calibrate correctly, which makes the mode switching more difficult than anticipated. 
 
 <br>
 <br>
