@@ -91,8 +91,7 @@ Everything is assembled! Yippie!
 <br>
 <br>
 
-Video Demo 
-![demo vid](https://github.com/CrvptiK/Arduino-SonicSrewdriver/blob/main/Sonic%20Screwdriver%20demo.mp4))
+Find the Video Demo [here](https://github.com/CrvptiK/Arduino-SonicSrewdriver/blob/main/Sonic%20Screwdriver%20demo.mp4))
 
 <br>
 <br>
