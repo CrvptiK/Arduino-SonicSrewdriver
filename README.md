@@ -4,7 +4,7 @@
 <br>
 <br>
 
-I seek to build a gesture controlled remote able to save and store IR data to control devices around the house.
+I seek to build a gesture controlled remote able to save and store IR data to control devices around the house, modeled after the Sonic Screwdriver from the TV show Doctor Who.
 A second function of the remote shall be its toy function, making some funky sounds and changing its LED colours.
 My main reference for this project, as well as the idea of integrating IR functions (thus the actual remote functions), comes from [Danovation](https://youtu.be/Afh69M2GXSo?si=8pY9mNmheCkjXmlK) on Youtube
 
