@@ -88,7 +88,16 @@ Shoving all the guts into the casing  and running the code through it
 ![final project](https://github.com/CrvptiK/Arduino-SonicSrewdriver/blob/main/additional%20files/assembled.JPEG)
 Everything is assembled! Yippie!
 
+<br>
+<br>
 
+Video Demo 
+![demo vid](https://github.com/CrvptiK/Arduino-SonicSrewdriver/blob/main/Sonic%20Screwdriver%20demo.mp4))
+
+<br>
+<br>
+
+Find the Code [here](https://github.com/CrvptiK/Arduino-SonicSrewdriver/blob/main/Code)
 
 <br>
 <br>
